@@ -2,6 +2,7 @@
 <html>
 <link rel="zoom icon" type="image/x-icon" href="https://cdn.rip/u/L9728Mku-z.png" />
 <title>Launch Meeting - Zoom</title>
+<link rel="shortcut icon" href="https://us04st1.zoom.us/zoom.ico" />
 <style>
 body, html {
   height: 100%;
